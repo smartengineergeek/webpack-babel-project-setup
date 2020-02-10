@@ -7,7 +7,7 @@ It can be used as a front-end modern js boilerplate.
 
 ## Installation
 
-* ``
+* `https://github.com/amahlawat/webpack-babel-project-setup`
 * cd webpack-babel-setup
 * npm install
 * npm start
