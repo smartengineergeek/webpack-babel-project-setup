@@ -8,7 +8,7 @@ It can be used as a front-end modern js boilerplate.
 ## Installation
 
 * `https://github.com/amahlawat/webpack-babel-project-setup`
-* cd webpack-babel-setup
+* cd webpack-babel-project-setup
 * npm install
 * npm start
 * visit `http://localhost:8080/`
